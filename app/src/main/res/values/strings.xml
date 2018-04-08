@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LarcComputacion</string>
+
+    <string-array name="Servicios">
+        <item>Limpieza HW</item>
+        <item>Instalación SW</item>
+        <item>Instalación HW</item>
+        <item>Revisión General</item>
+    </string-array>
+</resources>

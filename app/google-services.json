@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812185995107",
+    "firebase_url": "https://larccomputacion.firebaseio.com",
+    "project_id": "larccomputacion",
+    "storage_bucket": "larccomputacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812185995107:android:05bfc66641bae740",
+        "android_client_info": {
+          "package_name": "com.example.alvmaria.larccomputacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812185995107-5tr22hts6m24goeh05c5kikuutlh3ikb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alvmaria.larccomputacion",
+            "certificate_hash": "eea6c99679045716bc8f8ed230e5a901b52927ea"
+          }
+        },
+        {
+          "client_id": "812185995107-4kdr52hlu197f6v4utqh65e42j1r9vfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANYO07KwVWkX_nYVXH3gRB-oQNnXLfu6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812185995107-4kdr52hlu197f6v4utqh65e42j1r9vfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
